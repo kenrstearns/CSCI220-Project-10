@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1638250225 source:c:\users\ken\desktop\codeblocks\project 10\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stack>
+
+1638146094 c:\users\ken\desktop\codeblocks\project 10\expressiontree.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+
